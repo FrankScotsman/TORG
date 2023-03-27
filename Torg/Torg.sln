@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Torg", "Torg\Torg.vcproj", "{927F676E-1141-442C-9F85-0EA7C1B72D93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{927F676E-1141-442C-9F85-0EA7C1B72D93}.Debug|Win32.ActiveCfg = Debug|Win32
+		{927F676E-1141-442C-9F85-0EA7C1B72D93}.Debug|Win32.Build.0 = Debug|Win32
+		{927F676E-1141-442C-9F85-0EA7C1B72D93}.Release|Win32.ActiveCfg = Release|Win32
+		{927F676E-1141-442C-9F85-0EA7C1B72D93}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
