@@ -63,6 +63,7 @@ BEGIN_MESSAGE_MAP(CTorgDlg, CDialog)
 	ON_WM_PAINT()
 	ON_WM_QUERYDRAGICON()
 	//}}AFX_MSG_MAP
+	ON_BN_CLICKED(IDC_START_BTN, &CTorgDlg::OnStartBtn)
 END_MESSAGE_MAP()
 
 
@@ -151,3 +152,8 @@ HCURSOR CTorgDlg::OnQueryDragIcon()
 	return static_cast<HCURSOR>(m_hIcon);
 }
 
+
+void CTorgDlg::OnStartBtn()
+{
+	// TODO: Add your control notification handler code here
+}
